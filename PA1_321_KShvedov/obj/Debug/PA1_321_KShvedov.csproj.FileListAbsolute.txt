@@ -1,0 +1,14 @@
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.exe.config
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.exe
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.pdb
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.csprojAssemblyReference.cache
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.csproj.CoreCompileInputs.cache
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.exe
+C:\Users\Kaotixs\Source\Repos\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.pdb
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.exe.config
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.exe
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\bin\Debug\PA1_321_KShvedov.pdb
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.csprojAssemblyReference.cache
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.csproj.CoreCompileInputs.cache
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.exe
+C:\Users\Kaotixs\Documents\WSU_Fall_2018\CS 321\BST Project 1\BSTtree\PA1_321_KShvedov\PA1_321_KShvedov\obj\Debug\PA1_321_KShvedov.pdb
